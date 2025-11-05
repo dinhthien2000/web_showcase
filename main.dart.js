@@ -78403,7 +78403,7 @@ A.Ni.prototype={
 J(a){var s,r,q=null,p=A.bZ(a,q,t.w).w.a,o=p.a,n=o>1060,m=n?B.JA:B.Jz
 n=n?o*0.6:o*0.9
 s=p.b
-o=o<600?s*0.7:s*0.9
+o=o<600?s*0.85:s*0.9
 s=B.dm.mU(0.6)
 r=A.na(20)
 return A.awo(q,A.aqx(!0,A.cp(q,A.hR(A.b([m,B.jr,A.hN(A.cp(q,A.axg(new A.aeW(),$.Fu(),t.N),B.p,q,new A.cu(s,q,q,r,q,q,B.a5),o,q,q,n),q,q)],t.p),B.a1,B.P,B.W),B.p,q,B.yG,q,q,q,q),B.bd,!0),B.Jw)}}
